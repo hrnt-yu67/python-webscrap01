@@ -1,2 +1,3 @@
 # python-webscrap01
-Web
+Webスクレイピングの確認用　サンプル
+
